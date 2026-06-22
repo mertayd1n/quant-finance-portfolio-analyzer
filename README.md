@@ -1,4 +1,4 @@
-# quant-finance-portfolio-analyzer
+# healthcare-quant-sector-screener
 A Python project for analyzing stock portfolio returns, risk, volatility, Sharpe ratio and drawdowns.
 # Quant Finance Portfolio Analyzer
 
